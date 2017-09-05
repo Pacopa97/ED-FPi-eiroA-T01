@@ -15,6 +15,7 @@ public:
 	int* randArray(int size);
 
 protected:
+
 	int* myArray;
 	
 };
